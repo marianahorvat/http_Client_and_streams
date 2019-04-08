@@ -3,7 +3,7 @@ var https = require('https');
 console.log('I did it!');
 
 var options = {
-  host: 'www.example.org',
+  host: 'www.google.com',
   path: '/Users/marianahorvat/lighthouse/w1we/http_Client_and_streams'
 };
 
