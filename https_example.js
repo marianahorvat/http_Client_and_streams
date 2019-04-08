@@ -4,7 +4,7 @@ console.log('I did it!');
 
 var options = {
   host: 'www.example.org',
-  path: '/Lighthouse⁩/w1we⁩/http_Client_and_streams/https_example.js'
+  path: '/Users/marianahorvat/lighthouse/w1we/http_Client_and_streams'
 };
 
 // called by https when the request is made.
